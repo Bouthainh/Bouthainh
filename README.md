@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bouthainh
-- 👀 I’m interested in technology world 
-- 🌱 I’m currently learning software engineering 
-
+- 👀 I’m interested in technology, Software Development, and Programming!
+- 🌱 Junior Software Engineering Studen
 
 <!---
 Bouthainh/Bouthainh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
